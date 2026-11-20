@@ -1,5 +1,6 @@
-﻿# MERN E-Commerce Store 👇
+﻿# MERN E-Commerce Store 
 
 
 
 ![](/thumb.png)
+WARNING - Not For Real World Application 
