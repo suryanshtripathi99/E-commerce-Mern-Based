@@ -2,4 +2,4 @@
 
 
 
-!(/thumb.png)
+![](/thumb.png)
